@@ -1,2 +1,1 @@
-This is a test
-And something else
+This is a test and something else.
